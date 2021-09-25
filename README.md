@@ -28,7 +28,7 @@ A venv consists of an interpreter and packages. The purpose of having and using 
 5. Install packages
     Now you can install whatever packages you want for the venv.
 
-# Remove a Python Virtual Environment (venv) in VSCode#
+# Remove a Python Virtual Environment (venv) in VSCode
 
 To remove a virtual environment (venv) >>
 ```bash
