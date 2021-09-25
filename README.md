@@ -25,8 +25,7 @@ A venv consists of an interpreter and packages. The purpose of having and using 
 
     If the intepreter you want is not available, choose "Enter interpreter path" and choose `/MyVirtualEnvironment/Scripts/python.exe`
 
-5. Install packages
-    Now you can install whatever packages you want for the venv.
+5. Open a new terminal to access the venv and install packages
 
 # Remove a Python Virtual Environment (venv) in VSCode
 
